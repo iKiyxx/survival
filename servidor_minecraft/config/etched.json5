@@ -1,0 +1,10 @@
+{
+	// Disables right clicking music discs into boomboxes and allows the menu to be used by shift right-clicking.
+	useBoomboxMenu: false,
+	// Disables right clicking music discs into album covers and allows the menu to be used by shift right-clicking
+	useAlbumCoverMenu: false,
+	// Displays note particles appear above jukeboxes while a record is playing.
+	showNotes: true,
+	// Always plays tracks in stereo even when in-world.
+	forceStereo: false
+}

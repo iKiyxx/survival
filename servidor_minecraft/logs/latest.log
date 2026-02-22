@@ -1,0 +1,461 @@
+[12:03:23] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.18.2
+[12:03:23] [ForkJoinPool-1-worker-3/WARN]: Mod gravestones uses the version v1.15 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'v1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[12:03:23] [ForkJoinPool-1-worker-1/WARN]: Mod naturalist uses the version 5.0pre3 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0pre3'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[12:03:24] [main/INFO]: Loading 188 mods:
+	- accessories 1.0.0-beta.48+1.20.1
+	   |-- io_wispforest_endec 0.1.8
+	   |-- io_wispforest_endec_gson 0.1.5
+	   \-- io_wispforest_endec_netty 0.1.4
+	- advancednetherite 2.1.3-1.20.1
+	- aether 1.5.2-beta.6
+	   |-- cardinal-components-base 5.2.2
+	   |-- cardinal-components-entity 5.2.2
+	   |-- cardinal-components-world 5.2.2
+	   |-- cumulus_menus 1.20.1-1.0.2-fabric
+	   |-- mm_shedaniel 2.4.1
+	   |-- nitrogen_internals 1.20.1-1.0.15-fabric
+	   |-- porting_lib_asm 2.3.9-beta.51+1.20.1
+	   |-- porting_lib_base 2.3.9-beta.52+1.20.1
+	   |    |-- porting_lib_accessors 2.3.9-beta.52+1.20.1
+	   |    |-- porting_lib_attributes 2.3.9-beta.52+1.20.1
+	   |    |-- porting_lib_common 2.3.9-beta.52+1.20.1
+	   |    |-- porting_lib_config 2.3.9-beta.52+1.20.1
+	   |    |-- porting_lib_core 2.3.9-beta.52+1.20.1
+	   |    |-- porting_lib_entity 2.3.9-beta.52+1.20.1
+	   |    |-- porting_lib_extensions 2.3.9-beta.52+1.20.1
+	   |    |-- porting_lib_fluids 2.3.9-beta.52+1.20.1
+	   |    |-- porting_lib_gui_utils 2.3.9-beta.52+1.20.1
+	   |    |-- porting_lib_lazy_registration 2.3.9-beta.52+1.20.1
+	   |    |-- porting_lib_mixin_extensions 2.3.9-beta.52+1.20.1
+	   |    |-- porting_lib_tool_actions 2.3.9-beta.52+1.20.1
+	   |    |-- porting_lib_transfer 2.3.9-beta.52+1.20.1
+	   |    |-- porting_lib_utility 2.3.9-beta.52+1.20.1
+	   |    \-- reach-entity-attributes 2.4.0
+	   |-- porting_lib_blocks 2.3.9-beta.51+1.20.1
+	   |-- porting_lib_brewing 2.3.9-beta.51+1.20.1
+	   |-- porting_lib_client_events 2.3.9-beta.51+1.20.1
+	   |-- porting_lib_data 2.3.9-beta.51+1.20.1
+	   |-- porting_lib_items 2.3.9-beta.51+1.20.1
+	   |-- porting_lib_level_events 2.3.9-beta.51+1.20.1
+	   |-- porting_lib_loot 2.3.9-beta.51+1.20.1
+	   |-- porting_lib_model_generators 2.3.9-beta.51+1.20.1
+	   |    \-- porting_lib_model_materials 2.3.9-beta.51+1.20.1
+	   |-- porting_lib_model_loader 2.3.9-beta.51+1.20.1
+	   |-- porting_lib_models 2.3.9-beta.51+1.20.1
+	   |-- porting_lib_networking 2.3.9-beta.51+1.20.1
+	   \-- porting_lib_recipe_book_categories 2.3.9-beta.51+1.20.1
+	- aquamirae 6
+	- balm 7.3.38
+	   \-- kuma_api 20.1.12
+	- biomesoplenty 19.0.0.96
+	- biomeswevegone 1.7.4
+	- carryon 2.1.2.7
+	- cloth-config 11.1.136
+	   \-- cloth-basic-math 0.6.1
+	- collective 8.13
+	- comforts 6.4.0+1.20.1
+	   \-- spectrelib 0.13.15+1.20.1
+	- corgilib 4.0.3.4
+	   |-- com_electronwill_night-config_core 3.8.2
+	   \-- com_electronwill_night-config_toml 3.8.2
+	- creeperoverhaul 3.0.2
+	- dynamiclights 1.9.1+mod
+	- entityculling 1.9.5
+	   |-- transition 1.0.11
+	   \-- trender 1.0.10
+	- etched 3.0.1.5-fabricated
+	   \-- registrate-fabric 1.3.62-MC1.20.1
+	        \-- porting_lib_tags 3.0
+	             \-- porting_lib_gametest 2.1.1090+1.20
+	- fabric-api 0.92.7+1.20.1
+	   |-- fabric-api-base 0.4.32+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.37+1802ada577
+	   |-- fabric-biome-api-v1 13.0.15+93aa238b77
+	   |-- fabric-block-api-v1 1.0.12+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.3+924f046a77
+	   |-- fabric-blockrenderlayer-v1 1.1.42+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.3+1802ada577
+	   |-- fabric-command-api-v1 1.2.35+f71b366f77
+	   |-- fabric-command-api-v2 2.2.14+1802ada577
+	   |-- fabric-commands-v0 0.2.52+df3654b377
+	   |-- fabric-containers-v0 0.1.67+df3654b377
+	   |-- fabric-content-registries-v0 4.0.13+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.6+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.20+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.2+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.7+1802ada577
+	   |-- fabric-dimensions-v1 2.1.55+1802ada577
+	   |-- fabric-entity-events-v1 1.6.1+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.5+13a40c6677
+	   |-- fabric-events-lifecycle-v0 0.2.64+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.41+1802ada577
+	   |-- fabric-item-api-v1 2.1.29+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.14+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.38+1802ada577
+	   |-- fabric-keybindings-v0 0.2.36+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.23+1802ada577
+	   |-- fabric-loot-api-v2 1.2.3+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.47+9e7660c677
+	   |-- fabric-message-api-v1 5.1.10+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.52+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.4+1802ada577
+	   |-- fabric-models-v0 0.4.3+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.14+a158aa0477
+	   |-- fabric-networking-v0 0.3.54+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.5+e35120df77
+	   |-- fabric-particles-v1 1.1.3+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.24+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.6+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.2+1802ada577
+	   |-- fabric-renderer-indigo 1.5.3+85287f9f77
+	   |-- fabric-renderer-registries-v1 3.2.47+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.39+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.29+1802ada577
+	   |-- fabric-rendering-v0 1.1.50+df3654b377
+	   |-- fabric-rendering-v1 3.0.9+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.9+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.12+fb82e9d777
+	   |-- fabric-screen-api-v1 2.0.9+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.33+1802ada577
+	   |-- fabric-sound-api-v1 1.0.14+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.6+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.2+1802ada577
+	- fabric-language-kotlin 1.13.9+kotlin.2.3.10
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.3.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.3.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.3.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.3.10
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.31.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.7.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.8.2
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.8.2
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.10.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.10.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.10.0
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- ferritecore 6.0.1
+	- geckolib 4.8.3
+	   \-- com_eliotlash_mclib_mclib 20
+	- generic-hud 1.0.1
+	- glitchcore 0.0.1.1
+	   \-- net_jodah_typetools 0.6.3
+	- gravestones v1.15
+	- graveyard 3.0
+	- hudlib 1.2.1
+	- iceberg 1.1.25
+	- java 17
+	- jei 15.20.0.129
+	- justzoom 2.1.0
+	- konkrete 1.8.1
+	- lithium 0.11.4
+	- lolmct 1.2.7
+	- midnightlib 1.9.2
+	- minecraft 1.20.1
+	- moremobvariants 1.3.1
+	- moretotems 2.16.0
+	- naturalist 5.0pre3
+	- obscure_api 16
+	- ohthetreesyoullgrow 1.5.0
+	- quad 1.2.9
+	- resourcefulconfig 2.1.3
+	- resourcefullib 2.1.29
+	   |-- com_teamresourceful_bytecodecs 1.0.2
+	   \-- com_teamresourceful_yabn 1.0.3
+	- skinrestorer 1.2.3
+	- sophisticatedbackpacks 1.20.1-3.23.4.5.110
+	- sophisticatedcore 1.20.1-1.2.7.15.166
+	   \-- team_reborn_energy 3.0.0
+	- sound_physics_remastered 1.20.1-1.5.1
+	- starterkit 7.4
+	- structory 1.3.5
+	- structory_towers 1.0.7
+	- structures 2.3
+	- structuresplus 1.4
+	- terrablender 3.0.1.10
+	- the_bumblezone 7.9.9+1.20.1-fabric
+	   |-- athena 3.1.1
+	   \-- noindium 1.1.0+1.20
+	- twilightforest 1.4.7
+	   |-- cardinal-components-base 5.2.2
+	   |-- cardinal-components-entity 5.2.2
+	   |-- cardinal-components-world 5.2.2
+	   |-- com_google_code_findbugs_jsr305 3.0.2
+	   |-- disable_custom_worlds_advice 4.1
+	   |-- forgeconfigapiport 8.0.0
+	   |-- javax_annotation_javax_annotation-api 1.3.2
+	   |-- mm 2.3
+	   |-- porting_lib_model_builders 2.3.4+1.20.1
+	   \-- porting_lib_registries 2.3.4+1.20.1
+	- voicechat 1.20.1-2.6.12
+	   |-- fabric-key-binding-api-v1 1.0.36+fb8d95da82
+	   \-- voicechat_api 2.6.0
+	- watching 1.9.2
+	- waystones 14.1.19
+	- xaerominimap 25.3.10
+	   \-- xaerolib 1.1.0
+	- xaeroworldmap 1.40.11
+	   \-- xaerolib 1.1.0
+	- yet_another_config_lib_v3 3.6.6+1.20.1-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.12.0
+	   |-- com_twelvemonkeys_common_common-io 3.12.0
+	   |-- com_twelvemonkeys_common_common-lang 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+	- yungsapi 1.20-Fabric-4.0.6
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+	- yungsbridges 1.20-Fabric-4.0.3
+[12:03:24] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/survival/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[12:03:24] [main/INFO]: Compatibility level set to JAVA_17
+[12:03:24] [main/WARN]: Reference map 'graveyard-FABRIC-fabric-refmap.json' for graveyard-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:03:25] [main/INFO]: Loaded configuration file for Lithium: 131 options available, 1 override(s) found
+[12:03:25] [main/INFO]: Started MM (shedaniel's fork) at me/shedaniel/gen/mixin/
+[12:03:25] [main/WARN]: Reference map 'Manningham Mills-refmap.json' for mixins.mm_shedaniel.json could not be read. If this is a development environment you can ignore this message
+[12:03:25] [main/WARN]: Reference map 'nitrogen_internals-refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:03:25] [main/WARN]: Reference map 'starterkit_fabric.refmap.json' for starterkit_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:03:25] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
+[12:03:25] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
+[12:03:25] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[12:03:25] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
+[12:03:25] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[12:03:25] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[12:03:25] [main/WARN]: Error loading class: net/minecraft/class_793 (java.lang.ClassNotFoundException: net/minecraft/class_793)
+[12:03:25] [main/WARN]: @Mixin target net.minecraft.class_793 was not found twilight.mixins.json:BlockModelAccessor from mod twilightforest
+[12:03:25] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
+[12:03:25] [main/WARN]: @Mixin target net.minecraft.class_761 was not found accessories-common.mixins.json:LevelRendererAccessor from mod accessories
+[12:03:25] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[12:03:25] [main/WARN]: Error loading class: net/minecraft/class_481 (java.lang.ClassNotFoundException: net/minecraft/class_481)
+[12:03:25] [main/WARN]: @Mixin target net.minecraft.class_481 was not found porting_lib_items.mixins.json:client.CreativeModeInventoryScreenMixin from mod porting_lib_items
+[12:03:25] [main/WARN]: Error loading class: net/minecraft/class_5616 (java.lang.ClassNotFoundException: net/minecraft/class_5616)
+[12:03:25] [main/WARN]: @Mixin target net.minecraft.class_5616 was not found registrate-fabric.mixins.json:accessor.BlockEntityRenderersAccessor from mod registrate-fabric
+[12:03:25] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[12:03:26] [main/WARN]: Error loading class: net/minecraft/class_1163 (java.lang.ClassNotFoundException: net/minecraft/class_1163)
+[12:03:26] [main/WARN]: @Mixin target net.minecraft.class_1163 was not found mixins.mm.json:net.minecraft.class_1163 from mod mm
+[12:03:26] [main/WARN]: Error loading class: net/minecraft/class_1142 (java.lang.ClassNotFoundException: net/minecraft/class_1142)
+[12:03:26] [main/WARN]: @Mixin target net.minecraft.class_1142 was not found mixins.mm.json:net.minecraft.class_1142 from mod mm
+[12:03:26] [main/WARN]: Error loading class: net/minecraft/class_898 (java.lang.ClassNotFoundException: net/minecraft/class_898)
+[12:03:26] [main/WARN]: @Mixin target net.minecraft.class_898 was not found mixins.mm.json:net.minecraft.class_898 from mod mm
+[12:03:26] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
+[12:03:26] [main/WARN]: @Mixin target net.minecraft.class_761 was not found mixins.mm.json:net.minecraft.class_761 from mod mm
+[12:03:26] [main/WARN]: Error loading class: net/minecraft/class_759 (java.lang.ClassNotFoundException: net/minecraft/class_759)
+[12:03:26] [main/WARN]: @Mixin target net.minecraft.class_759 was not found mixins.mm.json:net.minecraft.class_759 from mod mm
+[12:03:26] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[12:03:26] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm_shedaniel.json:net.minecraft.class_314 from mod mm_shedaniel
+[12:03:26] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[12:03:27] [main/WARN]: @ModifyVariable(@At("INVOKE")) Shift.BY=2 on accessories-fabric.mixins.json:LivingEntityMixin from mod accessories::localvar$zff000$accessories$adjustLooting exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[12:03:29] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on accessories-common.mixins.json:NbtCompoundMixin from mod accessories::handler$zgb000$accessories$adjustCheckForListVariants exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[12:03:30] [main/WARN]: Method overwrite conflict for scheduleRandomTick in ohthetreesyoullgrow.mixins.json:chunk.MixinChunkAccess from mod ohthetreesyoullgrow, previously written by corgitaco.corgilib.mixin.chunk.MixinChunkAccess. Skipping method.
+[12:03:30] [main/WARN]: Method overwrite conflict for getScheduledRandomTicks in ohthetreesyoullgrow.mixins.json:chunk.MixinChunkAccess from mod ohthetreesyoullgrow, previously written by corgitaco.corgilib.mixin.chunk.MixinChunkAccess. Skipping method.
+[12:03:33] [main/INFO]: Registering Listeners!
+[12:03:33] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[12:03:34] [main/INFO]: Initializing network...
+[12:03:34] [main/INFO]: Initialized network!
+[12:03:34] [main/INFO]: Registering Oh The Biomes We've Gone items
+[12:03:34] [main/INFO]: Registering Oh The Biomes We've Gone Blocks
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Wood
+[12:03:35] [main/ERROR]: No data fixer registered for biomeswevegone:sign
+[12:03:35] [main/ERROR]: No data fixer registered for biomeswevegone:hanging_sign
+[12:03:35] [main/ERROR]: No data fixer registered for biomeswevegone:pumpkin_burrow
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Block Entities
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Entities
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Creative Tabs
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Sounds
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Block Predicate
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone State Providers
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Tree Decorators
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Custom Features
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Structure Pieces
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Custom Structure Types
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Configured Features
+[12:03:35] [main/INFO]: Creating and Registering Overworld Vegetation Configured Features
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Tree Configured Features
+[12:03:35] [main/INFO]: Creating and Registering Vanilla Configured Features
+[12:03:35] [main/INFO]: Registering Oh The Biomes You'll Go Overworld Configured Features
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Placed Features
+[12:03:35] [main/INFO]: Creating and Registering Overworld Tree Placed Features
+[12:03:35] [main/INFO]: Creating and Registering Overworld Vegetation Placed Features
+[12:03:35] [main/INFO]: Creating and Registering Vanilla Placed Features
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Custom Surface Rules
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Template Pools
+[12:03:35] [main/INFO]: Registering Oh The Biome's We've Gone Village Template Pools
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Poi Types
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Villager Professions
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Custom Structure Processors
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone villager types
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Schedules
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Memory Module Types
+[12:03:35] [main/INFO]: Registering Oh The Biomes We've Gone Sensor Types
+[12:03:35] [main/INFO]: Creating and Registering BWG Biome Modifiers for Vanilla Biomes
+[12:03:35] [main/INFO]: Loading Collective version 8.13.
+[12:03:35] [main/ERROR]: No data fixer registered for jungle_creeper
+[12:03:35] [main/ERROR]: No data fixer registered for bamboo_creeper
+[12:03:35] [main/ERROR]: No data fixer registered for desert_creeper
+[12:03:35] [main/ERROR]: No data fixer registered for badlands_creeper
+[12:03:35] [main/ERROR]: No data fixer registered for hills_creeper
+[12:03:35] [main/ERROR]: No data fixer registered for savannah_creeper
+[12:03:35] [main/ERROR]: No data fixer registered for mushroom_creeper
+[12:03:35] [main/ERROR]: No data fixer registered for swamp_creeper
+[12:03:35] [main/ERROR]: No data fixer registered for dripstone_creeper
+[12:03:35] [main/ERROR]: No data fixer registered for cave_creeper
+[12:03:35] [main/ERROR]: No data fixer registered for dark_oak_creeper
+[12:03:35] [main/ERROR]: No data fixer registered for spruce_creeper
+[12:03:35] [main/ERROR]: No data fixer registered for beach_creeper
+[12:03:35] [main/ERROR]: No data fixer registered for snowy_creeper
+[12:03:35] [main/ERROR]: No data fixer registered for ocean_creeper
+[12:03:35] [main/INFO]: [Dynamic Lights] MidnightLib detected!
+[12:03:35] [main/INFO]: [Dynamic Lights] Registering server started event ...
+[12:03:35] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[12:03:35] [main/INFO]: Deserializing EtchedConfig from './config/etched.json5'
+[12:03:35] [main/ERROR]: No data fixer registered for biomesoplenty:boat
+[12:03:35] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
+[12:03:35] [main/ERROR]: No data fixer registered for anomaly
+[12:03:35] [main/ERROR]: No data fixer registered for graveyard:reaper
+[12:03:35] [main/ERROR]: No data fixer registered for graveyard:acolyte
+[12:03:35] [main/ERROR]: No data fixer registered for graveyard:corrupted_vindicator
+[12:03:35] [main/ERROR]: No data fixer registered for graveyard:corrupted_pillager
+[12:03:35] [main/ERROR]: No data fixer registered for graveyard:skeleton_creeper
+[12:03:35] [main/ERROR]: No data fixer registered for graveyard:falling_corpse
+[12:03:35] [main/ERROR]: No data fixer registered for graveyard:ghoul
+[12:03:35] [main/ERROR]: No data fixer registered for graveyard:revenant
+[12:03:35] [main/ERROR]: No data fixer registered for graveyard:wraith
+[12:03:35] [main/ERROR]: No data fixer registered for graveyard:nightmare
+[12:03:35] [main/ERROR]: No data fixer registered for graveyard:ghouling
+[12:03:35] [main/ERROR]: No data fixer registered for graveyard:lich
+[12:03:35] [main/ERROR]: No data fixer registered for graveyard:skull
+[12:03:35] [main/ERROR]: No data fixer registered for graveyard:nameless_hanged
+[12:03:35] [main/INFO]: Registered JSON trade offer adapter.
+[12:03:35] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[12:03:35] [main/INFO]: [KONKRETE] Successfully initialized!
+[12:03:35] [main/INFO]: [KONKRETE] Server-side libs ready to use!
+[12:03:35] [main/INFO]: Definitely not up to no good
+[12:03:35] [main/INFO]: Definitely not up to no good
+[12:03:35] [main/INFO]: Giving mobs a fresh coat of paint...
+[12:03:36] [main/INFO]: [Quad] Initialising the Quad mod power! >:P
+[12:03:36] [main/ERROR]: No data fixer registered for 
+[12:03:36] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[12:03:36] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[12:03:36] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[12:03:36] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[12:03:36] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[12:03:36] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[12:03:36] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[12:03:36] [main/INFO]: Registered region biomeswevegone:region_0 to index 4 for type OVERWORLD
+[12:03:36] [main/INFO]: Registered region biomeswevegone:region_1 to index 5 for type OVERWORLD
+[12:03:36] [main/INFO]: Registered region biomeswevegone:region_2 to index 6 for type OVERWORLD
+[12:03:37] [main/INFO]: [voicechat] Compatibility version 20
+[12:03:37] [main/INFO]: [voicechat] Loading plugins
+[12:03:37] [main/INFO]: [voicechat] Loaded 1 plugin(s)
+[12:03:37] [main/INFO]: [voicechat] Initializing plugins
+[12:03:37] [main/INFO]: Initializing Simple Voice Chat integration
+[12:03:37] [main/INFO]: [voicechat] Initialized 1 plugin(s)
+[12:03:37] [main/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
+[12:03:37] [main/INFO]: Reflections took 51 ms to scan 1 urls, producing 1 keys and 4 values
+[12:03:37] [main/INFO]: Reflections took 6 ms to scan 1 urls, producing 1 keys and 4 values
+[12:03:37] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[12:03:37] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[12:03:37] [main/INFO]: Registering common data for channel xaerolib:main!
+[12:03:37] [main/INFO]: Loading primary common config for channel xaerolib:main!
+[12:03:37] [main/INFO]: Loading server config profiles for channel xaerolib:main!
+[12:03:37] [main/INFO]: Loading XaeroLib common 1/2!
+[12:03:37] [main/INFO]: Loading XaeroLib server 1/2!
+[12:03:37] [main/INFO]: Registering common data for channel xaerominimap:main!
+[12:03:37] [main/INFO]: Loading primary common config for channel xaerominimap:main!
+[12:03:37] [main/INFO]: Loading server config profiles for channel xaerominimap:main!
+[12:03:37] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[12:03:37] [main/INFO]: Registering common data for channel xaeroworldmap:main!
+[12:03:37] [main/INFO]: Loading primary common config for channel xaeroworldmap:main!
+[12:03:37] [main/INFO]: Loading server config profiles for channel xaeroworldmap:main!
+[12:03:37] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[12:03:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:03:39] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[12:03:40] [Worker-Main-1/ERROR]: Couldn't load tag minecraft:acquirable_job_site as it is missing following references: etched:bard (from fabric)
+[12:03:40] [Worker-Main-1/ERROR]: Couldn't load tag minecraft:village as it is missing following references: #minecraft:acquirable_job_site (from vanilla)
+[12:03:41] [main/INFO]: Loaded 23 recipes
+[12:03:41] [main/ERROR]: Failed to load function watching:check
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[12:03:41] [main/INFO]: Loaded 3540 advancements
+[12:03:41] [main/INFO]: Reloading config...
+[12:03:41] [main/INFO]: Loaded 9 Stalactite configs!
+[12:03:41] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: forge:stone
+[12:03:45] [main/WARN]: Lithium Class Analysis Error: Class twilightforest.block.CloudBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[12:03:45] [main/WARN]: Lithium Class Analysis Error: Class twilightforest.block.CloudBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[12:03:45] [main/WARN]: Lithium Class Analysis Error: Class twilightforest.block.CloudBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[12:03:45] [main/WARN]: Lithium Class Analysis Error: Class twilightforest.block.CloudBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[12:03:45] [main/INFO]: [Quad] loaded default fuel values
+[12:03:45] [main/INFO]: [Quad] loaded quad fuel tags
+[12:03:46] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[12:03:46] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[12:03:46] [main/INFO]: Applied 1661 biome modifications to 180 of 222 new biomes in 58.59 ms
+[12:03:46] [Server thread/INFO]: [Quad] cached original fuel map with count of: 1199
+[12:03:46] [Server thread/INFO]: Loading XaeroLib common 2/2!
+[12:03:46] [Server thread/INFO]: Loading XaeroLib server 2/2!
+[12:03:46] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[12:03:46] [Server thread/INFO]: Loading properties
+[12:03:46] [Server thread/INFO]: Default game type: SURVIVAL
+[12:03:46] [Server thread/INFO]: Generating keypair
+[12:03:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:03:47] [Server thread/INFO]: Using epoll channel type
+[12:03:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:03:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:03:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:03:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:03:47] [Server thread/INFO]: Preparing level "world"
+[12:03:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:03:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:03:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:03:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:03:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:03:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:03:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:03:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:03:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:03:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:03:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:03:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:03:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:03:59] [Worker-Main-1/INFO]: Preparing spawn area: 60%
+[12:03:59] [Server thread/INFO]: Time elapsed: 6344 ms
+[12:03:59] [Server thread/INFO]: Done (12.398s)! For help, type "help"
+[12:03:59] [Server thread/INFO]: [Dynamic Lights] Sending global config to world ...
+[12:03:59] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[12:03:59] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'find-faq.gl.at.ply.gg:20910'
+[12:03:59] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 20910
+[12:03:59] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[12:03:59] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[12:04:30] [Server thread/INFO]: pngToball[/127.160.241.86:39851] logged in with entity id 154 at (-190.9704364022885, 80.24918707874468, -687.4150608683477)
+[12:04:31] [Server thread/INFO]: pngToball joined the game
+[12:04:31] [Server thread/INFO]: [voicechat] Received secret request of pngToball (20)
+[12:04:31] [Server thread/INFO]: [voicechat] Sent secret to pngToball
+[12:04:45] [Server thread/INFO]: [pngToball: Set own game mode to Creative Mode]
+[12:18:38] [Server thread/INFO]: pngToball lost connection: Disconnected
+[12:18:38] [Server thread/INFO]: pngToball left the game
+[12:18:38] [Server thread/INFO]: [voicechat] Disconnecting client pngToball
+[12:53:09] [Server thread/INFO]: pngToball[/127.160.241.86:55711] logged in with entity id 3691 at (-243.62421761978842, 71.0, -715.7624816861739)
+[12:53:09] [Server thread/INFO]: pngToball joined the game
+[12:53:10] [Server thread/INFO]: [voicechat] Received secret request of pngToball (20)
+[12:53:10] [Server thread/INFO]: [voicechat] Sent secret to pngToball
+[12:56:13] [Server thread/INFO]: [pngToball: Set own game mode to Survival Mode]
+[12:56:26] [Server thread/INFO]: [pngToball: Set own game mode to Creative Mode]
+[13:05:11] [Server thread/INFO]: Villager class_1646['Villager'/3818, l='ServerLevel[world]', x=-292.30, y=64.00, z=-673.30] died, message: 'Villager was slain by Ghoul'
+[13:05:15] [Server thread/INFO]: Villager class_1646['Villager'/3816, l='ServerLevel[world]', x=-292.21, y=63.92, z=-675.03] died, message: 'Villager was slain by Ghoul'
+[13:13:31] [Server thread/INFO]: Villager class_1646['Villager'/12949, l='ServerLevel[world]', x=-201.97, y=-256.00, z=-721.55] died, message: 'Villager was killed'
